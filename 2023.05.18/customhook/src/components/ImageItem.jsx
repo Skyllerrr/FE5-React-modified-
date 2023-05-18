@@ -5,3 +5,4 @@ export default function ImageItem({ img }) {
         <img src={img.download_url} alt='' style={{ width: 400, height: 250 }} />
     )
 }
+
